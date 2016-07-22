@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! While playing Overwatch I fell in love with the Pachimari plushies and I wanted to create one. I wasn't able to find any pattern available online, so I decided to try and design one myself.
+Hello! While playing Overwatch I fell in love with the Pachimari plushies and I wanted to create one. I wasn't able to find any pattern available online, so I decided to try and design one myself. Part of it is based in [gemgon's Octocat pattern](https://github.com/gemgon/Octocat) as I found the "head" of both characters to be quite similar.
 
 
 ![](pachimari.png)
