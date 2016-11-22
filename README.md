@@ -9,7 +9,7 @@ Hello! While playing Overwatch I fell in love with the Pachimari plushies and I 
 
 ## Contributing
 
-If you want to contribute improving the pattern or translating it to any language you know, feel free to open a PR to submit a new file or edit the pattern in the language you like. Thanks a lot in advance!
+If you want to contribute by improving the pattern or translating it to any language you know, feel free to open a PR to submit a new file or edit the pattern in the language you like. Thanks a lot in advance!
 
 ## Languages
 
